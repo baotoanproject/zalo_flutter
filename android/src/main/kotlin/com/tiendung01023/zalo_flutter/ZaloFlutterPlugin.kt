@@ -1,4 +1,4 @@
-package com.tiendung01023.zalo_flutter
+package com.nets.p2325
 
 import android.annotation.SuppressLint
 import android.app.Activity
